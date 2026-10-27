@@ -10,9 +10,9 @@ Detects motorcycle riders with and without helmets and finds number plates in im
 
 
 
-pip install ultralytics
+&#x20;   pip install ultralytics
 
-yolo detect predict model=weights/best.pt source=input save=True
+&#x20;   yolo detect predict model=weights/best.pt source=input save=True
 
 
 
